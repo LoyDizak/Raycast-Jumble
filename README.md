@@ -4,6 +4,8 @@ Windows-targeted adaptation of [Keyboard Layout Search](https://www.raycast.com/
 
 Fix a Raycast search typed with the wrong keyboard layout, then open the intended application or continue with the corrected text.
 
+Every change to the original extension is vibecoded
+
 ## Features
 
 - Automatically detects Russian, Ukrainian, French AZERTY, German QWERTZ, and Greek input.
@@ -37,7 +39,7 @@ Automatic mode converts Cyrillic or Greek input to US English. Latin input is tr
 
 ## Privacy
 
-Conversion and application matching happen locally through Raycast. Text is only sent to Google if you choose the Google Search action.
+Conversion and application matching happen locally through Raycast.
 
 ## Attribution
 
